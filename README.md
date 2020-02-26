@@ -1,2 +1,2 @@
-# Data-Analysis1
-To save all the practice assignments done related to data
+# Data-Analysis
+Mini-Projects and related items on Data Analysis
